@@ -29,7 +29,7 @@
 			</activation>
 
 			<properties>
-				<liferay.base.dir>D:\MyProgrammi\Liferay-portal\liferay-portal-6.2-ce-ga6</liferay.base.dir>
+				<liferay.base.dir>//TODO put here abs dir \Liferay-portal\liferay-portal-6.2-ce-ga6</liferay.base.dir>
 				
 				<liferay.auto.deploy.dir>${liferay.base.dir}\deploy</liferay.auto.deploy.dir>
 				<liferay.app.server.deploy.dir>${liferay.base.dir}\tomcat-7.0.62\webapps</liferay.app.server.deploy.dir>
